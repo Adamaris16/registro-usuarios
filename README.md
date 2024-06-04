@@ -9,3 +9,6 @@ Mayerli Miranda
 <img src="captura2.png" width="300" heigth="500">
 <img src="captura5.png" width="300" heigth="500">
 <img src="captura6.png" width="300" heigth="500">
+<img src="captura6.png" width="300" heigth="500">
+<img src="captura2.png" width="300" heigth="500">
+<img src="Imagen2.png" width="300" heigth="500">
